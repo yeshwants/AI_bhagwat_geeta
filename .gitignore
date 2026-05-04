@@ -1,0 +1,4 @@
+.env
+gita_db/
+__pycache__/
+venv/
